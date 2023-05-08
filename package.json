@@ -1,0 +1,23 @@
+{
+  "name": "quadb_tech",
+  "version": "1.0.0",
+  "description": "Q => Why subdomain authentication is too fast in shopify?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anuj0124Kumar/quadb_tech.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anuj0124Kumar/quadb_tech/issues"
+  },
+  "homepage": "https://github.com/Anuj0124Kumar/quadb_tech#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
